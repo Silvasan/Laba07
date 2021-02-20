@@ -1,5 +1,5 @@
 #pragma once
 #include <stdio.h>
 #include <math.h>
-int factorial(int a);
-double exp(double x, int epsilon);
+double factorial(int a);
+double expa(double x, double epsilon);
